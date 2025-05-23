@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/ashokkalluri-559023148-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashok-kalluri-559023148/)](https://www.linkedin.com/in/ashok-kalluri-559023148/)
 [![Gmail Badge](https://img.shields.io/badge/-kalluriashok2627@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalluriashok2627@gmail.com)](mailto:kalluriashok2627@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://Ashokkalluri26.github.io/my-portfolio)
+- 🎯 Portfolio website: [Portfolio](https://Ashokkalluri26.github.io/my-portfolio-/)
 
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
