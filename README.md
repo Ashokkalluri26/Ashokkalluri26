@@ -41,7 +41,7 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/Ashokkalluri26/Ashokkalluri26/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Ashokkalluri26/Ashokkalluri26/blob/output/github-snake-dark.svg)
 </div>
 
 
