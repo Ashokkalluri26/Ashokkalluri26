@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
 
 
 ### Hi there, I am Kalluri Ashok 👋
@@ -18,11 +18,13 @@
 
 <p align="left">
 <a href="https://api.github.com/users/ashokkalluri26/repos" taget="_blank">
-  <a href="https://github.com/ashokkalluri26" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ashokkalluri26&label=Profile%20views&color=0e75b6&style=flat" alt="ashokkalluri26" />
+  <a href="https://github.com/Ashokkalluri26" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Ashokkalluri26&label=Profile%20views&color=0e75b6&style=flat" alt="Ashokkalluri26"/>
   </a>
 </p>
-
+```
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashokkalluri26)](https://github.com/ashokkalluri26/github-profile-trophy)
+```
 <p align="left">
   <a href="https://github.com/ashokkalluri26">
     <img src="https://github-profile-trophy.vercel.app/?username=ashokkalluri26" alt="ashokkalluri26" />
