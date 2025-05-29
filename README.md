@@ -22,9 +22,6 @@
   </a>
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokkalluri26" alt="ashokkalluri26" /></a> </p>
-
 <p align="left">
   <a href="https://github.com/ashokkalluri26">
     <img src="https://github-profile-trophy.vercel.app/?username=ashokkalluri26" alt="ashokkalluri26" />
