@@ -1,5 +1,7 @@
 
 
+<img align="right" src="https://github.com/Ashokkalluri26/Ashokkalluri26/blob/main/developer.gif?raw=true" alt="Coder GIF" width="420" height="330">
+
 
 ### Hi there, I am Kalluri Ashok 👋
 [![Linkedin Badge](https://img.shields.io/badge/ashokkalluri-559023148-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashok-kalluri-559023148/)](https://www.linkedin.com/in/ashok-kalluri-559023148/)
@@ -10,10 +12,11 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
+
 
 
 <p align="left">
