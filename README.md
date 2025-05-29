@@ -16,9 +16,21 @@
 - Data Science 😬
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokkalluri26&label=Profile%20views&color=0e75b6&style=flat" alt="ashokkalluri26" /> </p>
+<p align="left">
+  <a href="https://github.com/ashokkalluri26" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ashokkalluri26&label=Profile%20views&color=0e75b6&style=flat" alt="ashokkalluri26" />
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokkalluri26" alt="ashokkalluri26" /></a> </p>
+
+<p align="left">
+  <a href="https://github.com/ashokkalluri26">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashokkalluri26" alt="ashokkalluri26" />
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/kalluriashok3" target="blank"><img src="https://img.shields.io/twitter/follow/kalluriashok3?logo=twitter&style=for-the-badge" alt="kalluriashok3" /></a> </p>
 
