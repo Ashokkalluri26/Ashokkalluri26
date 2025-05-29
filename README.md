@@ -22,6 +22,9 @@
     <img src="https://komarev.com/ghpvc/?username=Ashokkalluri26&label=Profile%20views&color=0e75b6&style=flat" alt="Ashokkalluri26"/>
   </a>
 </p>
+  
+<img src ="https://github-profile-trophy.vercel.app/?username=ashokkalluri26&theme=flat">
+  
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ashokkalluri26)](https://github.com/ashokkalluri26/github-profile-trophy)
 ```
