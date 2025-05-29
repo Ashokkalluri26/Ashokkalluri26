@@ -49,4 +49,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashokkalluri26&show_icons=true&theme=tokyonight&locale=en" alt="ashokkalluri26" /></p>
 
 
-
+<a href="https://github.com/ashokkalluri26">
+    <img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  </a>
+</p>
