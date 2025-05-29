@@ -50,6 +50,6 @@
 
 
 <a href="https://github.com/ashokkalluri26">
-    <img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+    <img src="https://raw.githubusercontent.com/Ashokkalluri26/Ashokkalluri26/refs/heads/main/github-contribution-grid-snake-dark%20(1).svg" alt="GitHub Contribution Snake" />
   </a>
 </p>
