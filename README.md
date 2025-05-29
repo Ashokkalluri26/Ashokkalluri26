@@ -38,15 +38,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashokkalluri26&show_icons=true&theme=tokyonight&locale=en" alt="ashokkalluri26" /></p>
 
-<!-- Snake Animation -->
-<div align="center">
-    
-![snake gif](https://github.com/Ashokkalluri26/Ashokkalluri26/blob/output/github-snake-dark.svg)
-</div>
 
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Ashokkalluri26&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
 
